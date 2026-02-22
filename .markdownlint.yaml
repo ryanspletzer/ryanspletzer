@@ -1,0 +1,23 @@
+default: true
+
+# Profile README starts with H3 greeting, not H1
+first-line-heading: false
+
+# Stats cards require HTML table with img tags
+no-inline-html:
+  allowed_elements:
+    - table
+    - tr
+    - td
+    - img
+
+# Line length: 120 preferred, img URLs and badges may exceed
+line-length:
+  line_length: 120
+  code_blocks: false
+  tables: false
+  headings: false
+  # Allow long lines containing URLs
+  strict: false
+  stern: false
+

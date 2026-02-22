@@ -1,18 +1,10 @@
-## Hi there 👋
+### Hi there 👋
 
-I'm [Ryan Spletzer](https://www.spletzer.com).
+I'm [Ryan Spletzer](https://www.spletzer.com),
+a Distinguished Engineer at [Autodesk](https://www.autodesk.com)
+where I provide technical leadership for the AI, Data and Automation org.
 
-<!--
-**ryanspletzer/ryanspletzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/Website-spletzer.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.spletzer.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ryanspletzer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanspletzer/)
+[![Bluesky](https://img.shields.io/badge/Bluesky-ryan.spletzer.com-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ryan.spletzer.com)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@ryanspletzer-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://hachyderm.io/@ryanspletzer)
