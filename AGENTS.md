@@ -44,5 +44,5 @@ This directory is gitignored and will not be committed.
 ## Style
 
 - Use semantic line breaks in source (sentences on new lines)
-  for clean diffs, per global CLAUDE.md rules
+  for clean diffs, per global agent rules
 - Markdown must pass markdownlint-cli2
